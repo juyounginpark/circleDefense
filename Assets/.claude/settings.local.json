@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(dir \"C:\\\\My project \\(6\\)\\\\Assets\")"
+    ]
+  }
+}
